@@ -1,4 +1,4 @@
-import { View, Text, SafeAreaView, StyleSheet } from 'react-native';
+import { View, SafeAreaView, StyleSheet } from 'react-native';
 import { COLORS } from '../theme/foundations/Colors';
 import { Title } from '../components/atoms/Title';
 import { Header } from '../components/organisms/Header';
